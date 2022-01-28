@@ -15,6 +15,7 @@
     "momentjs": "^2.0.0",
     "node-sass": "^7.0.1",
     "normalize.css": "^8.0.1",
+    "numeral": "2.0.6",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.7.0",
@@ -46,8 +47,7 @@
   },
   "devDependencies": {
     "chalk": "^5.0.0",
-    "webpack-dev-server": "2.5.1",
-    "jest": "20.0.4"
-
+    "jest": "20.0.4",
+    "webpack-dev-server": "2.5.1"
   }
 }
